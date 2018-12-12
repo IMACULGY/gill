@@ -1,0 +1,7 @@
+{
+  "Guppy": {
+    "hull": "gill:gillGuppy",
+    "items": "10*rep core:mediumArmor-1 core:bigShield-1 core:gun-1",
+    "money": 300
+  }
+}
